@@ -2,8 +2,6 @@
 
 **Applied LLM Content Design & Conversational UI Architecture**
 
-> ⚠️ **Visual Case Study:** [Link to your Notion/PDF 1-Pager Here]
-
 This repository contains the prototype for a local LLM intent engine. It bridges the gap between conversational AI and backend search algorithms by forcing a language model to simultaneously maintain a strict character persona and output structured JSON metadata.
 
 ## 🧠 The Concept
